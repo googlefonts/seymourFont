@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotlessi" format="1">
   <advance width="944"/>
   <unicode hex="0131"/>
@@ -31,10 +31,10 @@
       <point x="715" y="1026"/>
     </contour>
     <contour>
-      <point x="472" y="1026" type="move" name="top"/>
+      <point x="850" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="850" y="10" type="move" name="ogonek"/>
+      <point x="472" y="1026" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

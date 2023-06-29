@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="r" format="1">
   <advance width="1263"/>
   <unicode hex="0072"/>
@@ -28,10 +28,10 @@
       <point x="150" y="-11" type="curve"/>
     </contour>
     <contour>
-      <point x="620" y="1026" type="move" name="top"/>
+      <point x="620" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="620" y="0" type="move" name="bottom"/>
+      <point x="620" y="1026" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

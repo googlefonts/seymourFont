@@ -1,9 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni020C" format="1">
   <advance width="2565"/>
   <unicode hex="020C"/>
   <outline>
-    <component base="O"/>
-    <component base="dblgravecmb" xOffset="759" yOffset="439"/>
+    <component base="O" identifier="5EC5CACA"/>
+    <component base="dblgravecmb" xOffset="759" yOffset="439" identifier="6EB3313F"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-29 06:54:51 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5EC5CACA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>6EB3313F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

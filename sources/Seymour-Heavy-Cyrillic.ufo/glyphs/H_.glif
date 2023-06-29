@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="1">
   <advance width="2421"/>
   <unicode hex="0048"/>
@@ -50,10 +50,10 @@
       <point x="1488" y="943" type="curve"/>
     </contour>
     <contour>
-      <point x="1211" y="1465" type="move" name="top"/>
+      <point x="1211" y="733" type="move" name="center"/>
     </contour>
     <contour>
-      <point x="1211" y="733" type="move" name="center"/>
+      <point x="1211" y="1465" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

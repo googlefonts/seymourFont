@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scommaaccent" format="1">
+  <advance width="2157"/>
+  <unicode hex="0218"/>
+  <outline>
+    <component base="S" identifier="35F73653"/>
+    <component base="commaaccentcomb" xOffset="757" identifier="8CE929A9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-29 06:54:51 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>35F73653</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8CE929A9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

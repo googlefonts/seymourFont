@@ -1,9 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0210" format="1">
   <advance width="2398"/>
   <unicode hex="0210"/>
   <outline>
-    <component base="R"/>
-    <component base="dblgravecmb" xOffset="675" yOffset="439"/>
+    <component base="R" identifier="AAC66FF9"/>
+    <component base="dblgravecmb" xOffset="675" yOffset="439" identifier="8BB88E87"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-29 06:54:51 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>8BB88E87</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>AAC66FF9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

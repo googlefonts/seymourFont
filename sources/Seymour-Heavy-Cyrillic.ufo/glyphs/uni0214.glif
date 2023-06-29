@@ -1,9 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0214" format="1">
   <advance width="2435"/>
   <unicode hex="0214"/>
   <outline>
-    <component base="U"/>
-    <component base="dblgravecmb" xOffset="687" yOffset="439"/>
+    <component base="U" identifier="385DC868"/>
+    <component base="dblgravecmb" xOffset="687" yOffset="439" identifier="F68D782B"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-29 06:54:51 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>385DC868</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F68D782B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
