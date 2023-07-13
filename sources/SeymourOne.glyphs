@@ -27,6 +27,7 @@ languagesystem latn TAT;
 languagesystem latn TRK;
 languagesystem latn ROM;
 languagesystem latn MOL;
+languagesystem latn CAT;
 ";
 name = Languagesystems;
 }
@@ -86,6 +87,13 @@ lookup locl_latn_1 {
 } locl_latn_1;
 language MOL;
 lookup locl_latn_1;
+
+script latn;
+language CAT;
+lookup locl_latn_2 {
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_2;
 ";
 tag = locl;
 },
@@ -28286,7 +28294,7 @@ unicode = 380;
 },
 {
 glyphname = f_f.liga;
-lastChange = "2023-07-05 14:32:28 +0000";
+lastChange = "2023-07-13 13:02:01 +0000";
 layers = (
 {
 anchors = (
@@ -28505,10 +28513,11 @@ width = 2548;
 );
 metricLeft = f;
 metricRight = f;
+unicode = 64256;
 },
 {
 glyphname = f_f_i.liga;
-lastChange = "2023-07-05 14:32:28 +0000";
+lastChange = "2023-07-13 13:01:49 +0000";
 layers = (
 {
 anchors = (
@@ -28736,10 +28745,11 @@ width = 3408;
 );
 metricLeft = f;
 metricRight = i;
+unicode = 64259;
 },
 {
 glyphname = f_f_l.liga;
-lastChange = "2023-07-05 14:32:28 +0000";
+lastChange = "2023-07-13 13:02:11 +0000";
 layers = (
 {
 anchors = (
@@ -28947,6 +28957,7 @@ width = 3361;
 );
 metricLeft = f;
 metricRight = l;
+unicode = 64260;
 },
 {
 glyphname = fi;
@@ -40392,7 +40403,7 @@ unicode = 191;
 },
 {
 glyphname = periodcentered;
-lastChange = "2023-07-05 14:32:28 +0000";
+lastChange = "2023-07-13 13:03:47 +0000";
 layers = (
 {
 layerId = m001;
@@ -40429,7 +40440,7 @@ nodes = (
 width = 561;
 }
 );
-unicode = 183;
+unicode = (183,8729);
 },
 {
 glyphname = bullet;
@@ -40629,7 +40640,7 @@ unicode = 35;
 },
 {
 glyphname = slash;
-lastChange = "2023-07-05 14:32:28 +0000";
+lastChange = "2023-07-13 13:03:30 +0000";
 layers = (
 {
 layerId = m001;
@@ -40658,7 +40669,7 @@ nodes = (
 width = 1280;
 }
 );
-unicode = 47;
+unicode = (47,8725);
 },
 {
 glyphname = backslash;
@@ -46533,12 +46544,6 @@ unicode = 731;
 );
 instances = (
 {
-customParameters = (
-{
-name = fileName;
-value = "SeymourOne-Regular";
-}
-);
 instanceInterpolations = {
 m001 = 1;
 };
