@@ -1,5 +1,5 @@
 {
-.appVersion = "3201";
+.appVersion = "3208";
 .formatVersion = 3;
 customParameters = (
 {
@@ -205,7 +205,7 @@ pos = -890;
 {
 }
 );
-name = Book;
+name = Regular;
 }
 );
 glyphs = (
@@ -46547,7 +46547,7 @@ instances = (
 instanceInterpolations = {
 m001 = 1;
 };
-name = Book;
+name = Regular;
 }
 );
 kerningLTR = {
